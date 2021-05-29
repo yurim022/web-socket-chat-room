@@ -1,4 +1,4 @@
-package com.example.basicwebsocket;
+package com.example.basicwebsocket.config;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.context.annotation.Configuration;
